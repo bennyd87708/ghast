@@ -23,6 +23,7 @@
     ]
   },
   "mixins": [
+    "ghast.mixins.json"
   ],
 
   "depends": {
