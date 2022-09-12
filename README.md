@@ -1,8 +1,8 @@
-# Fabric Example Mod
+# Ghast Spawn Visibility
 
-## Setup
+## Description
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Small Fabric mod for Minecraft using data from Gnembon's carpetmod to indicate in the world where ghasts are able to spawn.
 
 ## License
 
